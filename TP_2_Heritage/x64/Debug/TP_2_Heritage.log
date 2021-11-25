@@ -1,0 +1,4 @@
+﻿  QLineEdit_Histo.cpp
+c:\users\colson\source\repos\tp_2_heritage\tp_2_heritage\qlineedit_histo.cpp(6): error C3867: 'QMessageLogger::debug' : syntaxe non-standard ; utilisez '&' pour créer un pointeur vers un membre
+c:\users\colson\source\repos\tp_2_heritage\tp_2_heritage\qlineedit_histo.cpp(6): error C2297: '>>' : non conforme, l'opérande droit est du type 'const char [6]'
+c:\users\colson\source\repos\tp_2_heritage\tp_2_heritage\qlineedit_histo.cpp(6): warning C4552: '>>' : résultat de l'expression non utilisé
